@@ -1,0 +1,18 @@
+# Compiled program
+hello_world
+
+# Doxygen generated documentation
+html/
+latex/
+
+# Doxygen generated files
+Doxyfile.bak
+
+# Compilation database
+compile_commands.json
+
+# Editor / OS files
+*.swp
+*.swo
+*~
+.DS_Store

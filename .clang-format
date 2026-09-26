@@ -1,0 +1,8 @@
+# Starting formatting style
+BasedOnStyle: LLVM
+
+# Number of spaces used for indentation
+IndentWidth: 4
+
+# Maximum line length
+ColumnLimit: 100
